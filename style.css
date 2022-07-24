@@ -1,0 +1,44 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    background: #f5f6f6;
+}
+#Header a:hover
+{
+    color: aqua;
+}
+#bg-img
+{
+    background: url('back2.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 600px;
+}
+.display-4
+{
+    color: #f5f6f6;
+}
+.text-muted
+{
+    color: gray;
+}
+#About .fa
+{
+    color: #fff;
+    font-size: larger;
+}
+#social-media {
+    background: #313552;
+  }
+  
+  
+  .media_link {
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    border: 2px solid #f5ba09;
+    border-radius: 0.5rem;
+  }
+  
